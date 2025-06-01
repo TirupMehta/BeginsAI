@@ -50,7 +50,7 @@ Primary endpoint to interact with BeginsAI.
 ```json
 {
   "response": "string",
-  "tokens_used": number,
+  "tokens_used": 420,
   "timestamp": "ISO_8601_UTC"
 }
 ```
