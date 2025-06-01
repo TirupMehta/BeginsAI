@@ -39,9 +39,9 @@ Primary endpoint to interact with BeginsAI.
 
 ```json
 {
-  "message": "string",            // Required
-  "max_tokens": 1000,              // Optional (default: 500)
-  "temperature": 0.7               // Optional (default: 0.7)
+  "message": "string",            
+  "max_tokens": 1000,              
+  "temperature": 0.7               
 }
 ```
 
